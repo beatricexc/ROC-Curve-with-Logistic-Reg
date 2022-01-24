@@ -1,6 +1,6 @@
 # ROC-Curve-with-Logistic-Reg
 
-The ROC curve ( Receiver Rerating Caracteristic curve) is a graph showing the performance of a classification model at all classification tresholds. 
+The ROC curve ( Receiver Operating Characteristic Curve) is a graph showing the performance of a classification model at all classification tresholds. 
 
 This curve plots two parameteres: 
 
@@ -12,8 +12,6 @@ TPR = TP/(TP+FN)
 
 FALSE POSITIVE RATE is defined as follows:
 FPR = FP/(FP + TN)
-
-AUC- Area under the  ROC Curve
 
 AUC stands for "Area under the ROC Curve". The AUC measures the entire two-dimensional area underneath the entire ROC curve from (0,0) to (1,1)
 
